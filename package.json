@@ -1,0 +1,14 @@
+{
+  "name": "react-fundamentals",
+  "version": "1.0.0",
+  "description": "Redux",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Onishchenko Volodymyr",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
